@@ -18,4 +18,13 @@ The app should now start in the AVD.
 Below are few screenshots from the working app:
 
 _Home Page:_
+
 ![Home Page](https://github.com/sreemoyeemukherjee/SpaceXLaunches/blob/main/HomePage.jpg)
+
+_Launch Details Page:_
+
+![Launch Detail Page](https://github.com/sreemoyeemukherjee/SpaceXLaunches/blob/main/LaunchDetailsPage.jpg)
+
+_About Me:_
+
+![About Me](https://github.com/sreemoyeemukherjee/SpaceXLaunches/blob/main/AboutMe.jpg)
