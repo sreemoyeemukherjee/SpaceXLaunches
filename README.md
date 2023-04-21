@@ -28,3 +28,6 @@ _Launch Details Page:_
 _About Me:_
 
 ![About Me](https://github.com/sreemoyeemukherjee/SpaceXLaunches/blob/main/AboutMe.jpg)
+
+**Why hire me?**
+_It's one week prior to finals at CMU so I couldn't spend more than 30 hours on this project. I am pretty comfortable with backend development, especially in Java, but I tried React Native for the first time in my life. Keeping in consideration that this project was accomplished in under 30 hours, I think it shows promise that I can learn and adapt quickly. :)_
