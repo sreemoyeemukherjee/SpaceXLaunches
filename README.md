@@ -18,4 +18,4 @@ The app should now start in the AVD.
 Below are few screenshots from the working app:
 
 _Home Page:_
-![Home Page](HomePage.png)
+![Home Page](https://github.com/sreemoyeemukherjee/SpaceXLaunches/blob/main/HomePage.jpg)
